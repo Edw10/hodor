@@ -34,7 +34,9 @@ When the session is already started, the **menu** appears, where there are two o
 Investor Profile:
 
 The first screen that is found is the [login](https://github.com/andres0191/ApadrinappV2/blob/master/screens/login/login.js) screen, where you can **create an account** by filling in the Name, e-mail and password, or **login** by entering the e-mail and password:
-![image Login and Singup Inversor](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilInversor/loginSingupInversor.jpeg)
+<p align="center">
+  <img width="800" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilInversor/loginSingupInversor.jpeg">
+</p>
 When the session is already started, the **menu** appears, where there are four options:
 ![Menu inversor](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilInversor/MenuInversor.jpeg)
 
