@@ -57,6 +57,9 @@ When the session is already started, the **menu** appears, where there are four 
 For the development of this application we use the technologies of:
 <p align="center">
   <img width="300" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/tecnologias.jpg">
+  </p>
+  <p align="center">
+
   (image with firebase, react native, node js, redux technologies)
 </p>
 
