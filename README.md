@@ -21,11 +21,14 @@ When the session is already started, the **menu** appears, where there are two o
 </p>
 
 1- [In Login Rappitendero](https://github.com/andres0191/ApadrinappV2/blob/master/screens/Rappitendero/loginRappitendero/loginRappi.js) you can see the **publication** that has been made, and how much has been collected so far
-![img singlepost Rappitendero](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/singlepostRappi.jpeg)
+<p align="center">
+  <img width="300" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/singlepostRappi.jpeg">
+</p>
 
 2- [In Post Rappitendero](https://github.com/andres0191/ApadrinappV2/blob/master/screens/Rappitendero/PostRappitendero/SingleRappiPost.js) you can **post** how much money you need and what you want to do with that money, what do you plan to invest in to be a Rappitendero
-![img postRappi Rappitendero](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/postRappi.jpeg)
-
+<p align="center">
+  <img width="300" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/postRappi.jpeg">
+</p>
 
 
 Investor Profile:
