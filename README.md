@@ -55,14 +55,17 @@ When the session is already started, the **menu** appears, where there are four 
 3- [In Microprestamos](https://github.com/andres0191/ApadrinappV2/blob/master/screens/UserTransacciones/userTransacciones.js) shows the history of the **transactions** made, whom you have invested in and in what time
 
 For the development of this application we use the technologies of:
-![img of technologies ](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/tecnologias.jpg)
+<p align="center">
+  <img width="300" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/tecnologias.jpg">
+</p>
 (image with firebase, react native, node js, redux technologies)
 
 and we think the architecture in the following way:
-![img of architecture](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/Crowdlending-Rappi.png)
+<p align="center">
+  <img width="300" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/Crowdlending-Rappi.png">
+</p>
 
 Once the architecture and priorities were defined on the screens that we had to develop, we proceeded to design and connect the database:
-![db image]()
 
 
 We use firebase due to:
