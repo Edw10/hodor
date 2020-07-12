@@ -48,7 +48,9 @@ When the session is already started, the **menu** appears, where there are four 
 </p>
 
 2- [in the Apadrinar ](https://github.com/andres0191/ApadrinappV2/blob/master/screens/publicacionesrappi/PublicacionesRappi.js) are all the **publications** made by people who want to be Rappitenderos, where you can see for what purpose they want the money and how much they are requesting
-![img Publicaciones](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilInversor/listaPublicaciones.jpeg)
+<p align="center">
+  <img width="300" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilInversor/listaPublicaciones.jpeg">
+</p>
 
 3- [In Microprestamos](https://github.com/andres0191/ApadrinappV2/blob/master/screens/UserTransacciones/userTransacciones.js) shows the history of the **transactions** made, whom you have invested in and in what time
 
