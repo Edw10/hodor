@@ -1,6 +1,6 @@
 # APADRINAPP
 
-![img](https://raw.githubusercontent.com/andres0191/ApadrinappV2/master/assets/icono-apadrinapp.png?style=centerme)
+![img](https://raw.githubusercontent.com/andres0191/ApadrinappV2/master/assets/icono-apadrinapp.pngstyle=centerme)
 
 
 What is **Apadrinapp**?
