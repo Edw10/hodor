@@ -10,8 +10,9 @@ An application that, through **Crowdlending**, allows the collection to finance 
 The application consists of two different profiles:
 Rappitendero's Profile:
 The first screen that is found is the login screen, where you can create an account by filling in the **Name**, **e-mail** and **password**, or log in by entering the **e-mail** and **password**:
-
-![img register and singup Rappitendero](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/login-singup-rappitendero.png)
+<p align="center">
+  <img width="300" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/login-singup-rappitendero.png">
+</p>
 
 When the session is already started, the **menu** appears, where there are two options:
 ![img menu rappitendero](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/menu-rappitendero.jpeg)
