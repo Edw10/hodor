@@ -38,7 +38,9 @@ The first screen that is found is the [login](https://github.com/andres0191/Apad
   <img width="800" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilInversor/loginSingupInversor.jpeg">
 </p>
 When the session is already started, the **menu** appears, where there are four options:
-![Menu inversor](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilInversor/MenuInversor.jpeg)
+<p align="center">
+  <img width="300" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilInversor/MenuInversor.jpeg">
+</p>
 
 1- [In the Account Status](https://github.com/andres0191/ApadrinappV2/blob/master/screens/estadocuenta/Estadocuenta.js) you can see the **investment you currently** have, you will have the possibility to transfer money to Rappipay and return to the Menu
 ![img EstadoCuenta Inversor](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilInversor/EstadocuentaInversor.jpeg)
