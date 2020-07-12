@@ -15,7 +15,10 @@ The first screen that is found is the login screen, where you can create an acco
 </p>
 
 When the session is already started, the **menu** appears, where there are two options:
-![img menu rappitendero](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/menu-rappitendero.jpeg)
+
+<p align="center">
+  <img width="300" src="https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/menu-rappitendero.jpeg">
+</p>
 
 1- [In Login Rappitendero](https://github.com/andres0191/ApadrinappV2/blob/master/screens/Rappitendero/loginRappitendero/loginRappi.js) you can see the **publication** that has been made, and how much has been collected so far
 ![img singlepost Rappitendero](https://github.com/andres0191/ApadrinappV2/blob/andres/assets/readmeImages/perfilRappitendero/singlepostRappi.jpeg)
